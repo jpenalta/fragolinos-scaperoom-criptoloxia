@@ -6,7 +6,7 @@ A actividade está baseada nesta https://eduescaperoom.com/ejemplos-de-uso-del-c
 
 ## scaperoom
 
-Dividimos ao alumnado en grupos, de 5-8 alumnos, e preparamos varias aulas co material. O material pode variar en función do nivel dos alumnos do grupo. Deixamos sólos aos alumnos na aula. Aos 10-15 minutos si que imos entrando para axudar, en forma de algunha pista, se vemos que non deron avanzado.
+Dividimos ao alumnado en grupos, de 5-8 alumnos, e preparamos varias aulas con todo o material necesario para as tres probas que van ter que facer. O material pode variar en función do nivel dos alumnos do grupo. Deixamos sólos aos alumnos na aula. Aos 10-15 minutos si que imos entrando para axudar, en forma de algunha pista, se vemos que non deron avanzado.
 
 ### Primeira proba: Criptografía do Cesar - O cofre.
 
