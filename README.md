@@ -1,6 +1,6 @@
 # fragolinos-scaperoom-criptoloxia
 
-O material utilizado para realizar unha pequena sesión relacionada con criptaloxía cos alumnos do Club de Ciencias do IES Antonio Fraguas. A sesión empeza cun scaperoom, onde os alumnos teñen que utilizar a criptoloxía para lograr resolver as distintas probas, e remata cunha pequena presentación onde se lles da unha pequena visión da criptoloxía, relacionando co que acaba de facer no scaperoom.
+O material utilizado para realizar unha pequena sesión relacionada con criptoloxía cos alumnos do Club de Ciencias do IES Antonio Fraguas. A sesión empeza cun scaperoom, onde os alumnos teñen que utilizar a criptoloxía para lograr resolver as distintas probas, e remata cunha pequena presentación onde se lles da unha pequena visión da criptoloxía, relacionando co que acaba de facer no scaperoom.
 
 A actividade está baseada nesta https://eduescaperoom.com/ejemplos-de-uso-del-cifrado-cesar-en-un-escape-room-educativo
 
