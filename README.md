@@ -72,7 +72,7 @@ Na sala de audivisuais temos algunha larpeirada (as armas), que collen e van com
 Os discos para decodificar co cifrado Cesar, como unha pequena utilidade para codificar textos a tedes aquí:
 https://eduescaperoom.com/cifrado-cesar/?utm_source=pptxcesar&utm_medium=link&utm_campaign=escaperoomformacion
 
-Hai unha versión modificada, engadiuse un debuxo de cesar, na carpeta **material**: [Discos cifrado cesar EduEscapeRoom.pdf](./material/Discos cifrado cesar EduEscapeRoom.pdf)
+Hai unha versión modificada, engadiuse un debuxo de cesar, na carpeta **material**: [Discos cifrado cesar EduEscapeRoom](./material/Discos cifrado cesar EduEscapeRoom.pdf)
 
 Na carpeta **material** tamén hai o seguintes ficheiros:
 * pistas.odp : Unha presentación na que están as distintas pistas e textos que se utilizan. En concreto as tres primeiras diapositivas conteñen imaxes e textos encriptados relacionados coas imaxes, cada unha se utilizaba en función do nivel do grupo. A diapositiva 4 e 5 contén os problemas que permiten abrir o candado. E a última diapositiva contén o texto que se encontran na terceira proba.
