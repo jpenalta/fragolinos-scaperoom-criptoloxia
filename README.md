@@ -6,14 +6,18 @@ A actividade está baseada nesta https://eduescaperoom.com/ejemplos-de-uso-del-c
 
 ## scaperoom
 
-Dividimos ao alumnado en grupos, de 5-8 alumnos, e preparamos varias aulas con todo o material necesario para as tres probas que van ter que facer. O material pode variar en función do nivel dos alumnos do grupo. Deixamos sólos aos alumnos na aula. Aos 10-15 minutos si que imos entrando para axudar, en forma de algunha pista, se vemos que non deron avanzado.
+Dividimos ao alumnado en grupos, de 5-8 alumnos, e preparamos varias aulas con todo o material necesario para as tres probas que van ter que facer. O material pode variar en función do nivel dos alumnos do grupo. Deixamos sos aos alumnos na aula. Aos 10-15 minutos si que imos entrando para axudar, en forma de algunha pista, se vemos que non deron avanzado.
+
+Todos os grupos remataron a proba, algúns cunha pequeno empuxon e outros eles sos. A sesión completa durou menos de dúas horas, incluido a formación dos grupos e a charla final. O parte de scaperoom durou entre 25 e 35 minutos.
 
 ### Primeira proba: Criptografía do Cesar - O cofre.
 
-Nesta primeira proba os alumnos teñen que usar a critografía Cesar. Nunha taquilla poñemos un candado con contrasinal númerico. E pegado por fora á taquilla unha texto códificado. O texto contén un problema matemático cuia solución é a contrasinal do candado. Como pista o texto ten o seguinte mensaxe sen cifrar 
+Nesta primeira proba os alumnos teñen que usar a critografía Cesar. Nunha taquilla poñemos un candado con contrasinal númerico. E pegado por fora da taquilla unha texto códificado. O texto contén un problema matemático, a solución do problema vai ser a contrasinal do candado. Como pista o texto ten o seguinte mensaxe sen cifrar:
 
 ```
-Xeneral Pijus Magnificus, os galos preparan un ataque, neste cofre tes máis información. Resolve o seguinte problema para poder abrilo
+Xeneral Pijus Magnificus, os galos preparan un ataque, 
+neste cofre tes máis información. 
+Resolve o seguinte problema para poder abrilo
 ```
 
 Poñemo na clase, sen decirlles nada:
