@@ -24,13 +24,16 @@ Poñemo na clase, sen decirlles nada:
 Nos fixemos dous problema distintos, un máis sinxelos para 1º e 2º da ESO, e outro un pouco máis complicado para alumnos de curso superiores.
 
 ```
+Problema 1:
 MANDEI CCCXXX LEXIONARIOS A LOITAR CONTRA OS GALOS, SO DUAS TERCEIRAS PARTES VOLVERON A CASA.
 
 QFRIJN QQQHHH PJCNTRFWNTX F PTNYFW HTRYWF TX LFPTX, XT IZFX YJWHJNWFX UFWYJX ATPAJWTR F HFXF.
 
-2/3  de 330 = 220  
+2/3  de 330 = 220 
 
+Só volveron 220 lexionarios, que é o código do candado.
 
+Problema 2:
 SE OS SOLDADOS DAS LEXIONS MAIS OS GALOS SON CCC E A DIFERENCIA E CXX, CANTOS LEXIONARIOS HAI.
 
 XJ TX XTPIFITX IFX PJCNTRX QFNX TX LFPTX XTR HHH J F INKJWJRHNF J HCC, HFRYTX PJCNTRFWNTX MFN.
@@ -38,6 +41,8 @@ XJ TX XTPIFITX IFX PJCNTRX QFNX TX LFPTX XTR HHH J F INKJWJRHNF J HCC, HFRYTX PJ
 
 x+y= 300
 x-y= 120   y = 90 x= 210
+
+Hai 210 lexionarios, que é o código do candado.
 ```
 
 Se os alumnos conseguen descifra o texto do problema e resolvelo, poderán abrir o candado e encontrar a seguinte mensaxe.
