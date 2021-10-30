@@ -1,12 +1,14 @@
 # fragolinos-scaperoom-criptoloxia
 
-O material utilizado para realizar unha pequena sesión relacionada con criptoloxía cos alumnos do Club de Ciencias do IES Antonio Fraguas. A sesión empeza cun scaperoom, onde os alumnos teñen que utilizar a criptoloxía para lograr resolver as distintas probas, e remata cunha pequena presentación onde se lles da unha pequena visión da criptoloxía, relacionando co que acaba de facer no scaperoom.
+Material creado para realizar unha sesión sobre criptoloxía cos alumnos do Club de Ciencias do IES Antonio Fraguas. 
+
+A sesión empeza cun scape room, onde os alumnos teñen que utilizar a criptoloxía para lograr resolver as distintas probas, e remata cunha presentación onde se lles da unha introdución  da criptoloxía, relacionando co que acaba de facer no scaperoom.
 
 A actividade está baseada nesta https://eduescaperoom.com/ejemplos-de-uso-del-cifrado-cesar-en-un-escape-room-educativo
 
-## scaperoom
+## scape room
 
-Dividimos ao alumnado en grupos, de 5-8 alumnos, e preparamos varias aulas con todo o material necesario para as tres probas que van ter que facer. O material pode variar en función do nivel dos alumnos do grupo. Deixamos sos aos alumnos na aula. Aos 10-15 minutos si que imos entrando para axudar, en forma de algunha pista, se vemos que non deron avanzado.
+Dividimos ao alumnado en grupos, de 5-8 alumnos, e preparamos varias aulas con todo o material necesario para as tres probas que van ter que facer. O material pode variar en función do nivel dos alumnos do grupo. Deixamos sos aos alumnos na aula. Aos 10-15 minutos imos entrando para axudar, en forma de algunha pista, se vemos que non deron avanzado.
 
 Todos os grupos remataron a proba, algúns cunha pequeno empuxon e outros eles sos. A sesión completa durou menos de dúas horas, incluido a formación dos grupos e a charla final. O parte de scaperoom durou entre 25 e 35 minutos.
 
