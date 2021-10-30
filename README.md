@@ -22,10 +22,10 @@ neste cofre tes máis información.
 Resolve o seguinte problema para poder abrilo
 ```
 
-Poñemo na clase, sen decirlles nada:
+Poñemos na aula, sen decirlles nada:
 
-* O disco de cifrado-descifrado enriba da mesa do profesor.
-* No taboleiro unhas fotos cun texto cifrado coa mesma chave. Fixemos tres versións para distintos niveis de alumnos.
+* O disco de cifrado-descifrado, enriba da mesa do profesor.
+* No taboleiro, unhas fotos cun texto cifrado coa mesma chave. Fixemos tres versións para distintos niveis de alumnos.
 
 Nos fixemos dous problema distintos, un máis sinxelos para 1º e 2º da ESO, e outro un pouco máis complicado para alumnos de curso superiores.
 
