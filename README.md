@@ -66,9 +66,9 @@ Na carpeta **material** tamén hai o seguintes ficheiros:
 * plantilla_mensaxe_caixón.svg (e .pdf): mensaxe que se pon dentro da taquilla/cofre e que indica onde encontrar a seguinte mensaxe.
 * plantilla_mensaxe_audiovisuais.svg (e .pdf): mensaxe codificado que se pon no caixón da mesa do profesor indicando o punto de reunión (alternativa a poñer xa o texto sen codificar coa chave).
 * plantilla_mensaxe_xenerica.svg: Cuadricula para cubrir novas mensaxes que se codifican-decodifican co método da rexilla xiratoria.
-* rexilla_codificación.svg (e .pdf): rexilla para realizar a codificación-decodificación co método da rexilla xiratoria.
+* rexilla_codificación.svg (e .pdf): rexilla para realizar a codificación-decodificación co método da rexilla xiratoria. E necesario imprimila como se fora unha transparencia (en plástico), ou en papel e recortar as rexillas que están en branco.
 
-## Docs.
+## Documentación
 Na carpeta **docs** encóntrase a presentación utilizada ao final da sesión para explicar en que consiste a criptoloxía.
 Tamén un documento con diversos enlaces a material recabado para facer a actividade e outra que se estaban pensando nese momento sobre números primos (despois chegou o confinamento)
 
