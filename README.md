@@ -6,6 +6,8 @@ A actividade está baseada nesta https://eduescaperoom.com/ejemplos-de-uso-del-c
 
 ## scaperoom
 
+Dividimos ao alumnado en grupos, de 5-8 alumnos, e preparamos varias aulas co material. O material pode variar en función do nivel dos alumnos do grupo. Deixamos sólos aos alumnos na aula. Aos 10-15 minutos si que imos entrando para axudar, en forma de algunha pista, se vemos que non deron avanzado.
+
 ### Primeira proba: Criptografía do Cesar - O cofre.
 
 Nesta primeira proba os alumnos teñen que usar a critografía Cesar. Nunha taquilla poñemos un candado con contrasinal númerico. E pegado por fora á taquilla unha texto códificado. O texto contén un problema matemático cuia solución é a contrasinal do candado. Como pista o texto ten o seguinte mensaxe sen cifrar 
