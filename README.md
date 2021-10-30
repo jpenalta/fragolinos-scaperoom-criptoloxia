@@ -48,7 +48,7 @@ Dentro da taquilla/cofre encontran unha cuadrícula con letras en cada casilla, 
 
 Detras do reloxo da aula escondemos a rexilla de codificación-decodificación. A rexilla ten un texto que pon "Xira, xira, como un reloxo"
 
-Ao descifrar a mensaxe, indicalles en que sitio se encontra a seguinte mensaxe.
+Ao descifrar a mensaxe, indicalles en que sitio se encontra a seguinte mensaxe. No noso pegado debaixo do caixón da mesa do profesor.
 
 ### Terceira proba: Cifrado do Cesar - Punto de reunión
 
