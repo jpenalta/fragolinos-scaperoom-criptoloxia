@@ -55,15 +55,15 @@ Se os alumnos conseguen descifra o texto do problema e resolvelo, poderán abrir
 
 ### Segunda proba: Rexilla xiratoria - Xira, Xira como un reloxo
 
-Dentro da taquilla/cofre encontran unha cuadrícula con letras en cada casilla, que parecen que non teñen orden ningún. No pe da folla un texto que pon "Se no meu tempo houbera roloxos".
+Dentro da taquilla/cofre encontran unha [cuadrícula con letras en cada casilla](./maerial/plantilla_mensaje_caixón.pdf), que parecen que non teñen orden ningún. No pe da folla un texto que pon "Se no meu tempo houbera roloxos".
 
-Detras do reloxo da aula escondemos a rexilla de codificación-decodificación. A rexilla ten un texto que pon "Xira, xira, como un reloxo"
+Detras do reloxo da aula escondemos a [rexilla de codificación-decodificación](./material/rexilla_codificación.pdf). A rexilla ten un texto que pon "Xira, xira, como un reloxo"
 
-Ao descifrar a mensaxe, indicalles en que sitio se encontra a seguinte mensaxe. No noso pegado debaixo do caixón da mesa do profesor.
+Ao descifrar a mensaxe, indicalles en que sitio se encontra a seguinte mensaxe. No noso caso pegado debaixo do caixón da mesa do profesor.
 
 ### Terceira proba: Cifrado do Cesar - Punto de reunión
 
-Neste caso o texto que encontran está sen cifrar e envía ao alumno a un punto de reunión ( no noso caso a aula de audiovisuais), na pizarra da aula está escrita unha mensaxe cifrada. A chave de codificación desta mensaxe está no pe do texto que encontraron na aula.
+Neste caso o texto que encontran está sen cifrar e envía ao alumno a un punto de reunión ( no noso caso a aula de audiovisuais), na pizarra da aula que se usa como punto de reunión está escrita unha mensaxe cifrada. A chave de codificación desta mensaxe está no pe do texto que encontraron na aula.
 
 A mensaxe só di que se senten e esperen ao resto dos compañeiros "COLLE AS ARMAS E ESPERA A QUE CHEGE O RESTO DA TROPA."
 Na sala de audivisuais temos algunha larpeirada (as armas), que collen e van comendo mentras esperan a que todos os grupos rematen a proba.
