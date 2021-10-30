@@ -14,7 +14,7 @@ Todos os grupos remataron a proba, algúns cunha pequeno empuxon e outros eles s
 
 ### Primeira proba: Criptografía do Cesar - O cofre.
 
-Nesta primeira proba os alumnos teñen que usar a critografía Cesar. Nunha taquilla poñemos un candado con contrasinal númerico. E pegado por fora da taquilla unha texto códificado. O texto contén un problema matemático, a solución do problema vai ser a contrasinal do candado. Como pista o texto ten o seguinte mensaxe sen cifrar:
+Nesta primeira proba os alumnos teñen que usar a critografía Cesar. Nunha taquilla poñemos un candado con contrasinal numérico. Pegado por fora da taquilla unha texto códificado. O texto contén un problema matemático, a solución do problema vai ser a contrasinal do candado. Como pista o texto ten o seguinte mensaxe sen cifrar:
 
 ```
 Xeneral Pijus Magnificus, os galos preparan un ataque, 
